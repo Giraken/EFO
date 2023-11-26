@@ -355,23 +355,6 @@ p {
   margin-left: 15px;
 }
 
-.overlay-row{
-  flex-direction: row;
-  display: grid;
-  grid-template-columns: auto auto;
-}
-
-.overlay-list{
-  margin-left: 50px;
-  font-size: 1.35rem;
-  text-align: center;
-  margin: 25px;
-}
-
-.overlay-list li{
-  font-size: 2rem;
-}
-
 .overlay-description {
   font-size: 1.5rem;
   line-height: 2rem;
