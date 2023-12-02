@@ -17,7 +17,71 @@
                 TENTANG PEMILU
             </h1>
         </div>
-        <div class="overlay-row">
+        <div>
+            <div class="overlay-motto">
+                <h2>
+                    “Mudah Memilih, Perantau Pasti Memilih”
+                </h2>
+            </div>
+            <div class="overlay-description">
+                <p>
+                    Mengutip dari berita SINAR HARAPAN, bahwa Lembaga survei
+                    Indonesia Political Opinion (IPO) menyatakan tingkat golongan
+                    putih (golput) cenderung tinggi pada anak-anak muda yang sedang merantau.
+                </p>
+
+                <p>
+                    "Golput akan cepat tinggi bagi kelompok anak-anak muda,
+                    utamanya adalah dari proporsi anak-anak muda yang merantau,"
+                    kata Direktur Eksekutif IPO Dedi Kurnia Syah saat rilis
+                    survei opini publik terkait peta politik koalisi dan
+                    arah pemilih muda di Pemilu 2024 di Jakarta, Senin,
+                    20 November 2023. Menurut Dedi, hal itu didasarkan pada
+                    asumsi bahwa sebagian besar anak muda yang sedang berada
+                    jauh dari tempat asalnya mungkin memiliki kendala dalam
+                    proses pemilihan atau kurang terlibat langsung terhadap
+                    isu-isu politik di daerah sementara mereka.
+                </p>
+
+                <p>
+                    Saat ini, lanjut Dedi, perhatian yang penting diberikan
+                    adalah potensi sikap golput terhadap masalah teknis dan
+                    administrasi dalam proses pemilihan.
+                </p>
+
+                <p>
+                    "Yang justru perlu diwaspadai adalah golput yang lain bisa berkaitan dengan golput teknis maupun administrasi," ungkapnya.
+                </p>
+
+                <p>
+                    Hal itu menunjukkan perlu ada perbaikan dalam sistem
+                    administrasi pemilu guna memastikan bahwa setiap pemilih,
+                    terutama generasi muda, dapat melakukan pemilihan secara
+                    mudah, efisien, dan tanpa hambatan teknis.
+                </p>
+
+                <p>
+                    Kami Election for Everyone hadir membawa Inovasi untuk PEMILU
+                    2029 nanti yang bertujuan agar masyarakat rantau  dapat lebih
+                    mudah untuk mendapatkan hak pilihnya melalui platform digital
+                    yang mudah.
+                </p>
+
+                <p>
+                    Election for everyone merupakan prototipe awal sebagai
+                    bentuk mendukung digital civics di indonesia. Prototipe
+                    ini  memberikan desain kemudahan akses  pemilih perantau
+                    untuk pindah memilih secara online tanpa perlu kembali ke
+                    domisili asal yang memerlukan waktu dan biaya lebih. Kami
+                    berinovasi untuk melakukan digitalisasi proses administrasi
+                    pindah memilih melalui platform election for everyone mulai
+                    dari syarat dan tata cara pengajuan. kami mendukung penuh
+                    pemilu dengan mengatasi permasalahan golput akibat faktor
+                    kesulitan pindah memilih oleh masyarakat perantau.
+                </p>
+            </div>
+        </div>
+        {{-- <div class="overlay-row">
             <ul class="overlay-list">
                 <li>
                     “Tagline”
@@ -46,16 +110,16 @@
                     akibat faktor kesulitan pindah memilih oleh masyarakat perantau.
                 </p>
             </div>
-        </div>
+        </div> --}}
         <!-- News -->
-        <div class="dot-row">
+        {{-- <div class="dot-row">
             <div class="dot"></div>
             <h1 class="overlay-title">
                 KUMPULAN BERITA TERKAIT PEMILU
             </h1>
-        </div>
+        </div> --}}
 
-        <div class="overlay-news">
+        {{-- <div class="overlay-news">
             <div class="news-1">
                 <img src="assets/img/bumn.png" alt="">
                 <h1 class="news-title">
@@ -85,7 +149,7 @@
                     Lebih lengkap..
                 </a>
             </div>
-        </div>
+        </div> --}}
     </div>
 </div>
 @endsection
